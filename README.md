@@ -19,3 +19,41 @@ The work includes:
 * Organized scripts, screenshots, and reports for professional documentation.
 
 The goal is to showcase how **window functions** provide powerful analytical capabilities for decision-making in business environments.
+📈 Business Insights
+The analysis provides:
+
+Revenue Trends: Monthly revenue tracking with cumulative totals
+
+Performance Metrics: Moving averages for smoothing seasonal variations
+
+Customer Segmentation: Client categorization by spending quartiles
+
+Growth Analysis: Month-over-month revenue growth percentages
+
+Product Performance: Top-performing goods by district and quarter
+
+🛠️ Technical Features
+Window Functions: RANK(), NTILE(), LAG(), SUM() OVER()
+
+Aggregate Operations: Grouping and rolling calculations
+
+Data Partitioning: Analysis by time periods and geographic regions
+
+Business Intelligence: Ready-to-use metrics for decision-making
+
+📁 Project Structure
+schema-company.sql - Database schema and sample data
+
+Aggregate.sql - Revenue aggregation and running totals
+
+Average.sql - Moving average calculations
+
+distribution.sql - Client spending distribution
+
+Navigation.sql - Growth trend analysis
+
+ranking.sql - Product performance ranking
+
+Visual documentation files (various .jpg files)
+
+This project showcases how window functions provide powerful analytical capabilities for decision-making in business environments, specifically in the import/export trading sector across African market.
